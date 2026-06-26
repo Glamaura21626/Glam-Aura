@@ -1,1 +1,0 @@
-console.log('Glam Aura Website Loaded');
