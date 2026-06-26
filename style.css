@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap');
+
+body{margin:0;background:#fff7f0;color:#6b3028;text-align:center;font-family:Poppins}
+.top{background:#9d5b65;color:white;padding:12px}
+header{background:#fff0e8;padding:30px}
+h1,h2{font-family:'Playfair Display'}
+header h1{font-size:60px}
+nav a,.btn{background:#b76e79;color:white;padding:12px 25px;border-radius:30px;text-decoration:none;margin:8px;display:inline-block}
+.hero{padding:90px;background:linear-gradient(135deg,#f7d6cc,#fff)}
+.cards{display:flex;flex-wrap:wrap;justify-content:center;gap:25px;padding:40px}
+.cards div{background:white;width:220px;border-radius:20px;padding:20px;border:2px solid #d4af37;box-shadow:0 5px 15px #0002}
+img{width:100%;height:170px;object-fit:cover;border-radius:15px}
+.brand{font-size:22px;padding:35px!important}
